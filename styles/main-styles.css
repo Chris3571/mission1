@@ -1,5 +1,16 @@
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:chartreuse;
-    
+
+}
+body {
+    background-color: khaki;
+    border: 2px solid coral;
+    border-radius: 5px;
+}
+
+.main-content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: larger;
 }
